@@ -10,6 +10,6 @@ A delivery-focused equities technologist with more than 15 years of experience i
 
 
 ### Education: 
-2007 ACCA Member, Association of Chartered Certified Accountants –UK 
-2006 Financial Risk Manager (FRM), Global Association of Risk Professionals – US 
-2003 Post Grad Dip in Business Management (PGDBM), IFMR GSB - India.
+- 2007 ACCA Member, Association of Chartered Certified Accountants –UK 
+- 2006 Financial Risk Manager (FRM), Global Association of Risk Professionals – US 
+- 2003 Post Grad Dip in Business Management (PGDBM), IFMR GSB - India.
