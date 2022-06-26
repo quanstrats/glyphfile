@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Syed Hamza
 
-You can use the [editor on GitHub](https://github.com/quanstrats/syed/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+A delivery-focused equities technologist with more than 15 years of experience in project management, business analysis, and change management. In-depth experience in legal entity rollouts, structured products pre & post-trade processing, project governance, strategic change management, and execution under complex stakeholder structures.
 
 ### Markdown
 
