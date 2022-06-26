@@ -1,35 +1,15 @@
-## Syed Hamza
+## Syed
 
 A delivery-focused equities technologist with more than 15 years of experience in project management, business analysis, and change management. In-depth experience in legal entity rollouts, structured products pre & post-trade processing, project governance, strategic change management, and execution under complex stakeholder structures.
 
-### Markdown
+### Tools & Technologies: 
+- PM/BA Tools: Proficient in JIRA, Confluence, MS Visio, MS Project, MS Office, ARIS Business Process 
+- Technologies: Working level experience in C++, Oracle SQL, MS Excel VBA
+- Platforms: Sophis Risque/Fusion Sophis, Fusion Invest, Murex, Summit
+- Product Management/Design Tools: FIGMA, and Miro
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/quanstrats/syed/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Education: 
+2007 ACCA Member, Association of Chartered Certified Accountants –UK 
+2006 Financial Risk Manager (FRM), Global Association of Risk Professionals – US 
+2003 Post Grad Dip in Business Management (PGDBM), IFMR GSB - India.
